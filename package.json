@@ -1,0 +1,22 @@
+{
+  "name": "35-express.js-plog-app-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express-ejs-layouts": "^2.5.1"
+  }
+}
